@@ -1,7 +1,7 @@
 
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/b88QlTSTsj3bEHQyZf/giphy.gif" heighr="200"/>
+  <img src="https://media.giphy.com/media/b88QlTSTsj3bEHQyZf/giphy.gif" heighr="120"/>
         
 </div>
 
