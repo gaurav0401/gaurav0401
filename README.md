@@ -5,11 +5,11 @@
         
 </div>
 
-
+![](https://komarev.com/ghpvc/?username=your-github-username&color=red)
 
 ## Hi there 👋
 
-![](https://komarev.com/ghpvc/?username=your-github-username&color=red)
+
 
 # 💫 About Me:
 I'm Gaurav, and I'm delighted to welcome you to my portfolio. I am a passionate and dedicated professional with a strong background in Computer Science . Throughout my career, I have consistently pursued excellence and pushed the boundaries of my skills to deliver outstanding results.<br><br>With a keen eye for detail and a creative mindset, I have honed my abilities in Data Structures and Algorithms , Databases (MySQL , SQLite) , Frontend (HTML , CSS , JavaScript , BootStrap) , Backend (Php , mysql , Python , Apache ) and Programming languages ( Java , C++ , Python , PHP ) to bring innovative solutions to complex challenges. I thrive in dynamic environments and enjoy collaborating with diverse teams to achieve shared objectives.<br>
