@@ -23,7 +23,8 @@ I'm Gaurav, and I'm delighted to welcome you to my portfolio. I am a passionate 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=gaurav0401&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=gaurav0401&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav0401&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav0401&hide=html,hack,jupyter%20notebook,PHP,css&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=gaurav0401&theme=radical&no-frame=false&no-bg=true&margin-w=4)
